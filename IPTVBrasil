@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/globo-news-logo.png",GloboNews
+http://a.srvbr.me:8880/138906/138906/826
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/BandNews_logo_2019.png",BandNews
+http://a.srvbr.me:8880/138906/138906/890
 #EXTINF:-1 tvg-logo="https://scontent.fpet3-1.fna.fbcdn.net/v/t1.0-9/96265806_2375527679412955_5585150174361026560_n.jpg?_nc_cat=109&_nc_sid=85a577&_nc_ohc=krmy63AW3OYAX9cDCvo&_nc_ht=scontent.fpet3-1.fna&oh=572f8b3b421c4e946152c2593b8f2c76&oe=5EEA0A00",Latinasat / Web TV
 https://livefocamundo.com:8081/8470/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/600px-Logotipo_do_SBT.svg.png",SBT
